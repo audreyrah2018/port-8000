@@ -1,0 +1,258 @@
+
+Audrey
+Q1 Assignment 1
+
+Davis@DESKTOP-5M15C63 MINGW64 ~
+$ git clone https://github.com/allmachinelearning/MachineLearning.git
+Cloning into 'MachineLearning'...
+remote: Enumerating objects: 144, done.
+-Rerceuseed iving o1b4j4
+Receiving objects: 100% (144/144), 308.27 KiB | 0 bytes/s, done.
+Resolving deltas: 100% (46/46), done.
+Checking connectivity... done.
+
+Davis@DESKTOP-5M15C63 MINGW64 ~
+$ ls
+'3D Objects'/
+Anaconda3/
+AppData/
+'Application Data'@
+awesome-machine-learning/
+C++/
+Contacts/
+Cookies@
+Desktop/
+docker
+Documents/
+Downloads/
+Favorites/
+Links/
+'Local Settings'@
+MachineLearning/
+Microsoft
+MicrosoftEdgeBackups/
+Music/
+'My Documents'@
+myapp/
+mynewapp/
+NetHood@
+NTUSER.DAT
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TM.blf
+NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000002.regtrans-ms
+ntuser.ini
+OneDrive/
+Pictures/
+PrintHood@
+Python/
+Recent@
+'Saved Games'/
+Searches/
+SendTo@
+'Start Menu'@
+Templates@
+Videos/
+'VirtualBox VMs'/
+
+Davis@DESKTOP-5M15C63 MINGW64 ~
+$ cd MachineLearning
+
+Davis@DESKTOP-5M15C63 MINGW64 ~/MachineLearning (master)
+$ git log
+commit 86b3e7b0477fc4d07358d53703d0af4eb76ca2bd
+Author: jindongwang <jindongwang@outlook.com>
+Date:   Tue Apr 9 09:51:54 2019 +0800
+
+    add: a new book
+
+commit d4125c220a3e0e77523b625499d5fd64cb173392
+Author: jindongwang <jindongwang@outlook.com>
+Date:   Thu Apr 4 11:21:06 2019 +0800
+
+    add: machine learning book
+
+commit 87696eb7e3132e2d74ee9f40d670e0e11f098632
+Merge: f480b7f e88c9bf
+Author: Jindong Wang <jindongwang@outlook.com>
+Date:   Sun Mar 17 15:44:43 2019 +0800
+
+    Merge pull request #21 from Dongzhixiao/master
+
+    add the websit of cs229 Chinese translation
+
+commit e88c9bfe305a889efbae8ad6950813d7c4d9dc24
+Author: XiaoDong_Wang <dongzhixiaodong@gmail.com>
+:...skipping...
+commit 86b3e7b0477fc4d07358d53703d0af4eb76ca2bd
+Author: jindongwang <jindongwang@outlook.com>
+Date:   Tue Apr 9 09:51:54 2019 +0800
+
+    add: a new book
+
+commit d4125c220a3e0e77523b625499d5fd64cb173392
+Author: jindongwang <jindongwang@outlook.com>
+Date:   Thu Apr 4 11:21:06 2019 +0800
+
+    add: machine learning book
+
+commit 87696eb7e3132e2d74ee9f40d670e0e11f098632
+Merge: f480b7f e88c9bf
+Author: Jindong Wang <jindongwang@outlook.com>
+Date:   Sun Mar 17 15:44:43 2019 +0800
+
+    Merge pull request #21 from Dongzhixiao/master
+
+    add the websit of cs229 Chinese translation
+
+commit e88c9bfe305a889efbae8ad6950813d7c4d9dc24
+Author: XiaoDong_Wang <dongzhixiaodong@gmail.com>
+Date:   Fri Mar 15 10:22:42 2019 +0800
+
+    add the websit of cs229 Chinese translation
+
+commit f480b7f1234552f1ef9f09617fac7ae77e532405
+Author: Jindong Wang <jindongwang@outlook.com>
+Date:   Sat Nov 10 16:39:19 2018 +0800
+
+    Update README.md
+
+commit a85e94df2bde7d5a50fda3a9a8b8fc3012498005
+Author: Jindong Wang <jindongwang@outlook.com>
+Date:   Sat Nov 10 16:36:15 2018 +0800
+
+    Update README.md
+
+commit 8ab2a37d435d2bd3dede43f523dcff536f7cd2b4
+Author: Jindong Wang <jindongwang@outlook.com>
+Date:   Sat Nov 10 16:28:52 2018 +0800
+
+    format
+
+commit 8089b7c0ea3c27999b7eb2e08f8e87e87741612d
+Author: Jindong Wang <jindongwang@outlook.com>
+Date:   Sat Nov 10 16:24:15 2018 +0800
+
+    add: machine learning yearning
+
+commit 53089cd1e26614154219632f7da6d611785aeaab
+Author: Jindong Wang <jindongwang@outlook.com>
+Date:   Sat Jun 23 20:17:27 2018 +0800
+
+    add: Andrew ng
+
+commit 047f86f7105948d005b00edf72f2cbf09036fc8a
+Merge: 4273f51 779bba0
+Author: Jindong Wang <jindongwang@outlook.com>
+Date:   Thu May 3 14:45:52 2018 +0800
+
+    Merge pull request #19 from KKDeng/patch-2
+
+    Update survey_readme.md
+
+commit 779bba0ca9bfdf15aedf19b40132ac509da573a5
+Author: KKDeng <747836668@qq.com>
+Date:   Thu May 3 14:24:27 2018 +0800
+
+    Update survey_readme.md
+
+commit 4273f5118c6242e967d2b167422a732fbd08795c
+Merge: f72871d fef161a
+Author: Jindong Wang <jindongwang@outlook.com>
+Date:   Thu May 3 14:20:52 2018 +0800
+
+    Merge pull request #18 from KKDeng/patch-1
+
+    Update survey_readme.md
+
+commit fef161a7827c3ac56902bbd8e15b12464d152d3e
+Author: KKDeng <747836668@qq.com>
+ ESC
+commit 86b3e7b0477fc4d07358d53703d0af4eb76ca2bd
+Author: jindongwang <jindongwang@outlook.com>
+Date:   Tue Apr 9 09:51:54 2019 +0800
+
+    add: a new book
+
+commit d4125c220a3e0e77523b625499d5fd64cb173392
+Author: jindongwang <jindongwang@outlook.com>
+Date:   Thu Apr 4 11:21:06 2019 +0800
+
+    add: machine learning book
+
+commit 87696eb7e3132e2d74ee9f40d670e0e11f098632
+Merge: f480b7f e88c9bf
+Author: Jindong Wang <jindongwang@outlook.com>
+Date:   Sun Mar 17 15:44:43 2019 +0800
+
+    Merge pull request #21 from Dongzhixiao/master
+
+    add the websit of cs229 Chinese translation
+
+commit e88c9bfe305a889efbae8ad6950813d7c4d9dc24
+Author: XiaoDong_Wang <dongzhixiaodong@gmail.com>
+
+
+Davis@DESKTOP-5M15C63 MINGW64 ~
+$ cd MachineLearning
+
+Davis@DESKTOP-5M15C63 MINGW64 ~/MachineLearning (master)
+$ git remote -v
+origin  docker run (fetch)
+origin  https://github.com/allmachinelearning/MachineLearning.git (push)
+
+
+Davis@DESKTOP-5M15C63 MINGW64 ~
+$ cat MachineLearning
+cat: MachineLearning: Is a directory
+
+Davis@DESKTOP-5M15C63 MINGW64 ~/MachineLearning (master)
+$ docker ps
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+
+Davis@DESKTOP-5M15C63 MINGW64 ~/MachineLearning (master)
+$ docker images
+REPOSITORY                 TAG                 IMAGE ID            CREATED             SIZE
+audreyaudrey/myapacheapp   latest              3b1afec5a463        4 days ago          251MB
+myapp                      latest              ab4503efa806        4 days ago          251MB
+hello-world                latest              c7f4e41fba3a        3 weeks ago         251MB
+
+Davis@DESKTOP-5M15C63 MINGW64 ~/MachineLearning (master)
+$ docker ps -a
+CONTAINER ID        IMAGE                      COMMAND                   CREATED             STATUS              PORTS                NAMES
+e5c08e13f167        audreyaudrey/myapacheapp   "cmd /C 'type C:\\hel…"   4 days ago          Created             0.0.0.0:82->80/tcp   heuristic_payne
+c9e8c387b904        myapp                      "bash"                    4 days ago          Created                                  admiring_golick
+af842fe5dbca        hello-world                "cmd /C 'type C:\\hel…"   4 days ago          Created                                  wonderful_bardeen
+b713a601300d        hello-world                "cmd /C 'type C:\\hel…"   4 days ago          Created                                  wizardly_payne
+131393ca3f01        myapp                      "cmd /C 'type C:\\hel…"   4 days ago          Created                                  trusting_hopper
+6d4b5f5d56e9        hello-world                "cmd /C 'type C:\\hel…"   4 days ago          Created                                  boring_wilbur
+9ee50023be23        hello-world                "cmd /C 'type C:\\hel…"   4 days ago          Created                                  exciting_edison
+1565ae55f146        hello-world                "cmd /C 'type C:\\hel…"   4 days ago          Created                                  intelligent_poitras
+
+Davis@DESKTOP-5M15C63 MINGW64 ~
+$ cd MachineLearning
+
+Davis@DESKTOP-5M15C63 MINGW64 ~/MachineLearning (master)
+$ docker build -t audreyaudrey//MachineLearning
+invalid argument "audreyaudrey//MachineLearning" for "-t, --tag" flag: invalid reference format: repository name must be lowercase
+See 'docker build --help'.
+
+
+Davis@DESKTOP-5M15C63 MINGW64 ~/MachineLearning (master)
+$ docker-compose -v
+docker-compose version 1.25.4, build 8d51620a
+
+Davis@DESKTOP-5M15C63 MINGW64 ~/MachineLearning (master)
+$ docker-compose version
+docker-compose version 1.25.4, build 8d51620a
+docker-py version: 4.1.0
+CPython version: 3.7.4
+OpenSSL version: OpenSSL 1.1.1c  28 May 2019
+
+
+
+
+
+
+
